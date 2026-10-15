@@ -89,7 +89,7 @@ Este repositório reúne meus projetos acadêmicos, estudos e experiências prá
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelbarzaghi68&show_icons=true&theme=tokyonight&locale=pt-br&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=rafaelbarzaghi68&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&v=2"
   />
 
   <img
